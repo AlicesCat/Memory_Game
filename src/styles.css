@@ -1,0 +1,24 @@
+body {
+    background-color: whitesmoke;
+}
+
+.grid {
+    width: 400px;
+    height: 300px;
+    border: solid black 1px;
+    line-height: 0;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+#score {
+    margin-top: 15vh;
+}
+
+.big-text {
+    font-size: 40px;
+}
