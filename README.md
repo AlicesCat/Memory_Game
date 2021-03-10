@@ -9,7 +9,7 @@ A program creates a 4 x 3 board filled with 12 cards. At first, only the backs o
 
 ## Credits
 
-The program was created following [12HR+ YouTube Coding Bootcamp 2021!](https://youtu.be/Xm4BObh4MhI?t=34702) by [Code with Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw).
+The game was created following [12HR+ YouTube Coding Bootcamp 2021!](https://youtu.be/Xm4BObh4MhI?t=34702) by [Code with Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw).
 
 Check the original [Memory Game](https://github.com/kubowania/memory-game) on [Ania Kubow](https://github.com/kubowania)'s repository.
 
